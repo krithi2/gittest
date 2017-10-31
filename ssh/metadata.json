@@ -1,0 +1,15 @@
+{
+  "name": "krithi-ssh",
+  "version": "0.1.0",
+  "author": "Krithika Krishnamurthy",
+  "summary": "THis module manages SSH",
+  "license": "Apache-2.0",
+  "source": "https://github.com/krithi2/gittest",
+  "project_page": "https://github.com/krithi2/gittest",
+  "issues_url": "https://github.com/krithi2/gittest/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
